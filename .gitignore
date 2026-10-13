@@ -1,0 +1,6 @@
+data/
+__pycache__/
+*.pyc
+.venv/
+claude.MD
+post_linkedin_BOZZA.md

@@ -1,0 +1,21 @@
+COMUNE,PROVINCIA,area_km2,dist_venezia_km,tipo
+Venezia,Venezia,418.6,0.0,piu_esteso
+Porto Tolle,Rovigo,259.8,60.6,piu_esteso
+Cortina d'Ampezzo,Belluno,253.2,122.5,piu_esteso
+Auronzo di Cadore,Belluno,220.4,122.1,piu_esteso
+Verona,Verona,198.8,105.1,piu_esteso
+Chioggia,Venezia,188.3,28.8,piu_esteso
+Borgo Valbelluna,Belluno,167.7,65.4,piu_esteso
+Asiago,Vicenza,162.2,83.1,piu_esteso
+Caorle,Venezia,153.8,45.2,piu_esteso
+Belluno,Belluno,147.2,75.6,piu_esteso
+Zermeghedo,Vicenza,3.0,76.0,meno_esteso
+San Pietro Mussolino,Vicenza,4.0,86.6,meno_esteso
+Zoppè di Cadore,Belluno,4.3,103.2,meno_esteso
+Chiuppano,Vicenza,4.7,75.5,meno_esteso
+Pianezze,Vicenza,5.0,62.8,meno_esteso
+Portobuffolè,Treviso,5.3,45.3,meno_esteso
+San Vito di Leguzzano,Vicenza,6.0,79.6,meno_esteso
+Salcedo,Vicenza,6.1,68.7,meno_esteso
+Battaglia Terme,Padova,6.2,48.5,meno_esteso
+Bosaro,Rovigo,6.3,68.4,meno_esteso
